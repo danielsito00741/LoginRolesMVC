@@ -44,3 +44,10 @@ C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\System.We
 C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\obj\Debug\LoginRoles.csprojResolveAssemblyReference.cache
 C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\obj\Debug\LoginRoles.dll
 C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\obj\Debug\LoginRoles.pdb
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\Antlr3.Runtime.dll
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\Newtonsoft.Json.dll
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\System.Web.Optimization.dll
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\WebGrease.dll
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\Antlr3.Runtime.pdb
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\Newtonsoft.Json.xml
+C:\Users\dquispel\Source\Repos\LoginRolesMVC\LoginRoles\LoginRoles\bin\System.Web.Optimization.xml
